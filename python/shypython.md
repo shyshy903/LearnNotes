@@ -2,7 +2,7 @@
 type: blog
 title: Python学习笔记
 categories: python
-data: 2019-11-23
+date: 2019-11-23
 tags: python
 ---
 # Shypython-learn-notes
